@@ -1,1 +1,1 @@
-# jenkis is better than all
+# jenkins is better than all
